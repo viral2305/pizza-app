@@ -17,8 +17,8 @@ export default function FoodOrder() {
           <div className="food">
           <img className="foodimage" src={img} alt="Image" />
           <div className="imagetext">
-            <div className="foodtitle">Lorem Ipsum Dollor</div>
-            <div className="foodsubtitle">Lorem Ipsum Dollor Sit</div>
+            <div className="foodtitle">BISTRO PIZZERIA</div>
+            <div className="foodsubtitle">FOOD WITH SMILE</div>
             <Button
               className="foodimgbtn"
               type="primary"

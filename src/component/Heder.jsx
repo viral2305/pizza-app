@@ -47,7 +47,7 @@ export default function Heder({handleOpen}) {
         <div className="first">
           <div className="first1">
         <img className="headerimg" src={Map} />
-          <span>Lorem, ipsum dolor </span>
+          <span>Find nearest store?</span>
           </div>
         </div>
         <div className="second">
@@ -59,7 +59,7 @@ export default function Heder({handleOpen}) {
         <div className="third">
           <div className="third3">
         <img className="headerimg" src={Shopping} />
-          <span>Lorem, ipsum dolor </span>
+          <span>Track your order</span>
           </div>
         </div>
       {/* </div> */}

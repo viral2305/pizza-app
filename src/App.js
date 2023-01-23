@@ -54,9 +54,9 @@ function App() {
           <img src={quoteIcon2} />
           </div>
           <div className="quotetext">
-            <span className="quotetitle">Free shipping</span>
+            <span className="quotetitle">On time</span>
             <span className="quotesubtitle">
-              sing up for update and get free shipping
+              Fastest Delivery brings you foodies.
             </span>
           </div>
         </div>
@@ -65,9 +65,9 @@ function App() {
           <img src={quoteIcon3} />
           </div>
           <div className="quotetext">
-            <span className="quotetitle">Free shipping</span>
+            <span className="quotetitle">Free Delivery</span>
             <span className="quotesubtitle">
-              sing up for update and get free shipping
+              sing up for free 5 delivery
             </span>
           </div>
         </div>
