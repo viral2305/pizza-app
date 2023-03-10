@@ -1,6 +1,6 @@
 import React from "react";
 import { Divider,Dropdown, Menu, Space,Button  } from "antd";
-import { AndroidOutlined,DownOutlined  } from "@ant-design/icons";
+import { DownOutlined  } from "@ant-design/icons";
 import Map from '../assests/map.svg'
 import Food from '../assests/food.svg'
 import Shopping from '../assests/shopping.svg'

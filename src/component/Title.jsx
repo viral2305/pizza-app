@@ -1,8 +1,6 @@
 import React from "react";
 import { Button } from "antd";
-import { AndroidOutlined } from "@ant-design/icons";
 import Pizza from "../../src/assests/pizza.png";
-import Shopping from '../assests/shopping.svg'
 
 export default function Title() {
   return (
